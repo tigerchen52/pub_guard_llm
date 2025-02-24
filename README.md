@@ -9,7 +9,7 @@
 Pub-Guard-LLM is a specifically designed LLM for detecting fraudulent papers in academic publications. Pub-Guard-LLM consistently surpasses the performance of various baselines and provides more reliable explanations.
 
 🤗 [Pub-Guard-LLM-1B](https://huggingface.co/Lihuchen/pub-guard-llama-1b) 🤗 [Pub-Guard-LLM-8B](https://huggingface.co/Lihuchen/pub-guard-llama-8b)
-📐 [PEARL Benchmark](https://huggingface.co/datasets/Lihuchen/pubmed_retraction)
+📐 [Pubmed Retraction Benchmark](https://huggingface.co/datasets/Lihuchen/pubmed_retraction)
 
 # Quick Start
 Install Pub-Guard-LLM using pip:
