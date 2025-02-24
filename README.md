@@ -8,6 +8,8 @@
 
 Pub-Guard-LLM is a specifically designed LLM for detecting fraudulent papers in academic publications. Pub-Guard-LLM consistently surpasses the performance of various baselines and provides more reliable explanations.
 
+🤗 [Pub-Guard-LLM-1B](https://huggingface.co/Lihuchen/pub-guard-llama-1b) 🤗 [Pub-Guard-LLM-8B](https://huggingface.co/Lihuchen/pub-guard-llama-8b)
+📐 [PEARL Benchmark](https://huggingface.co/datasets/Lihuchen/pubmed_retraction)
 
 # Quick Start
 Install Pub-Guard-LLM using pip:
@@ -60,4 +62,23 @@ However, the journal in which the article is published is ranked in the Q4 categ
 The title and abstract of the article do not raise any immediate red flags regarding controversial topics, made-up data, or plagiarism.
 
 However, the absence of information for one of the institutions is a concern.
+```
+
+# Experimental Results
+![image](https://github.com/user-attachments/assets/e0e94771-ac46-495f-992b-ef7fba373225)
+
+# Citation
+
+If you find our work useful, please give us a citation:
+
+```
+@misc{chen2025pubguardllm,
+      title={Pub-Guard-LLM: Detecting Fraudulent Biomedical Articles with Reliable Explanations}, 
+      author={Lihu Chen and Shuojie Fu and Gabriel Freedman and Cemre Zor and Guy Martin and James Kinross and Uddhav Vaghela and Ovidiu Serban and Francesca Toni},
+      year={2025},
+      eprint={2502.15429},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.15429}, 
+}
 ```
