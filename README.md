@@ -1,7 +1,7 @@
 # Pub-Guard-LLM
 
 
-[![Release](https://img.shields.io/pypi/v/pandasai?label=Release&style=flat-square)](https://pypi.org/project/pub-guard-llm/)
+[![Release](https://img.shields.io/pypi/v/pub-guard-llm?label=Release&style=flat-square)](https://pypi.org/project/pub-guard-llm/)
 [![arXiv](https://img.shields.io/badge/arXiv-2502.15429-b31b1b.svg)](https://arxiv.org/html/2502.15429v1)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Lihuchen/pub-guard-llama-8b)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
